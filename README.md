@@ -4,5 +4,5 @@ npm install --save-dev typescript awesome-typescript-loader source-map-loader
 npm install cookie-parser
 npm install body-parser
 
-node app.js ??•?
-./node_modules/.bin/webpack ‘Å•ï
+node app.js å¯åŠ¨æœåŠ¡
+./node_modules/.bin/webpack æ‰“åŒ…
