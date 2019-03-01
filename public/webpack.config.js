@@ -15,6 +15,7 @@ module.exports = {
         vendors: [
             "react",
             "react-dom",
+            "react-router-dom"
         ],
         index: path.resolve(__dirname, './src/index.tsx')
     },

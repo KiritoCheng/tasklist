@@ -1,9 +1,10 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
+import { connectRouter, routerMiddleware } from 'connected-react-router';
 
-import { Hello } from "./components/Hello";
+import { index } from "./pages/index";
 
 ReactDOM.render(
-    <Hello compiler="TypeScript" framework="React" />,
+    <Index compiler="TypeScript" framework="React" />,
     document.getElementById("example")
 );
